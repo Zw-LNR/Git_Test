@@ -1,1 +1,1 @@
-print(u no wat is this)
+print("u no wat is this")
